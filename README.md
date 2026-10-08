@@ -17,14 +17,7 @@ Minha stack principal de estudo e desenvolvimento inclui:
 *   🌱 Focada em dominar o ecossistema JavaScript (React/Node) e a robustez da orientação a objetos com Java.
 *   🤝 Aberta a conexões, parcerias em projetos de código aberto e oportunidades de estágio na área de tecnologia.
 
-## 🚀 Projetos Recentes
-
-*(Substitua os textos abaixo pelos seus projetos reais)*
-
-*   **[Nome do Projeto 1](link-do-repositorio)** - Uma aplicação desenvolvida com React e Node.js para resolver [problema X].
-*   **[Nome do Projeto 2](link-do-repositorio)** - Sistema back-end construído em Java que realiza [funcionalidade Y].
 
 ## 📫 Como me encontrar
 
-*   **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
-*   **E-mail:** [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
+*   **E-mail:** aliceoliveiraaa7995@gmail.com
