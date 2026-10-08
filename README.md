@@ -49,9 +49,9 @@ Minha stack principal de estudo e desenvolvimento:
 ### 📊 🌻 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Estatísticas personalizadas com tons que combinam (tema alternativo ou limpo) -->
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=aliceantuunes&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="Stats" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceantuunes&layout=compact&theme=vue-dark" alt="Top Langs" />
+  <!-- Estatísticas principais corrigidas -->
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=aliceantunes&show_icons=true&theme=vue-dark" alt="Stats" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceantunes&layout=compact&theme=vue-dark" alt="Top Langs" />
 </div>
 
 ---
