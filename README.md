@@ -17,7 +17,7 @@
 
 ---
 
-### 🍯 💫 Sobre Mim
+### 🙋‍♀️ Sobre Mim
 
 Sou apaixonada por tecnologia e focada em construir soluções ágeis, elegantes e eficientes. Atualmente, estou construindo minha base técnica no curso de **Desenvolvimento de Sistemas no SENAI CIMATEC**, com foco prático na criação de aplicações do zero, desde a interface de usuário até a lógica de servidor.
 
@@ -59,7 +59,6 @@ Minha stack principal de estudo e desenvolvimento:
 ### 📫 💛 Como me encontrar
 
 - 📧 **E-mail:** [aliceoliveiraaa7995@gmail.com](mailto:aliceoliveiraaa7995@gmail.com)
-- 💼 **LinkedIn:** [Insira o link do seu LinkedIn aqui]
 
 <div align="center">
   <br>
