@@ -49,12 +49,9 @@ Minha stack principal de estudo e desenvolvimento:
 ### 📊 🌻 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Estatísticas principais corrigidas -->
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=aliceantunes&show_icons=true&theme=vue-dark" alt="Stats" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceantuunes&layout=compact&theme=vue-dark" alt="Top Langs" />
+  <!-- Exibindo apenas as linguagens mais usadas para destacar seus estudos -->
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceantunes&layout=compact&theme=vue-dark" alt="Top Langs" />
 </div>
-
----
 
 ### 📫 💛 Como me encontrar
 
