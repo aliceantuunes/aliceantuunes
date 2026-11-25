@@ -5,11 +5,8 @@
   <p><em>🌸 Estudante de Desenvolvimento de Sistemas | SENAI CIMATEC 🌸</em></p>
 
   <p>
-    <a href="mailto:aliceoliveiraaa7995@gmail.com">
+    <a href="mailto:Alice.antuuness@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-%23FFF8DC?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" />
-    </a>
-    <a href="https://linkedin.com/in/seu-usuario" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%23FFF8DC?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
     </a>
   </p>
 </div>
@@ -56,7 +53,7 @@ Minha stack principal de estudo e desenvolvimento:
 
 ### 📫 💛 Como me encontrar
 
-- 📧 **E-mail:** [aliceoliveiraaa7995@gmail.com](mailto:aliceoliveiraaa7995@gmail.com)
+- 📧 **E-mail:** [Alice.antuuness@gmail.com](mailto:Alice.antuuness@gmail.com)
 
 <div align="center">
   <br>
