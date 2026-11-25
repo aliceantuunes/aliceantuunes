@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Você pode substituir a imagem abaixo por uma sua ou de sua preferência -->
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="60" alt="GitHub" />
   
   <h1> ✨ Olá, eu sou a Alice Antunes! 💛 ✨</h1>
@@ -19,11 +18,11 @@
 
 ### 🙋‍♀️ Sobre Mim
 
-Sou apaixonada por tecnologia e focada em construir soluções ágeis, elegantes e eficientes. Atualmente, estou construindo minha base técnica no curso de **Desenvolvimento de Sistemas no SENAI CIMATEC**, com foco prático na criação de aplicações do zero, desde a interface de usuário até a lógica de servidor.
+Sou apaixonada por tecnologia e motivada a construir soluções eficientes, funcionais e com foco na experiência do usuário. Atualmente, estou consolidando minha base técnica no curso de **Desenvolvimento de Sistemas no SENAI CIMATEC**, desenvolvendo projetos práticos do planejamento à entrega.
 
-- 🔭 **Atualmente desenvolvendo** projetos práticos no SENAI CIMATEC para consolidar meus conhecimentos em desenvolvimento Full-Stack.
-- 🌱 **Focada em** dominar o ecossistema JavaScript (React/Node) e a robustez da orientação a objetos com Java.
-- 🤝 **Aberta a** conexões, parcerias em projetos de código aberto e oportunidades de estágio na área de tecnologia.
+- 🔭 **Desenvolvendo:** Aplicações web modernas e estruturação de lógica de programação full-stack em projetos acadêmicos e pessoais.
+- 🌱 **Focada em:** Aprofundar meus conhecimentos no ecossistema JavaScript (React/Node.js) e fortalecer os fundamentos de Orientação a Objetos com Java.
+- 🤝 **Buscando:** Oportunidades de estágio onde eu possa aprender rápido, colaborar com equipes de tecnologia e crescer profissionalmente.
 
 ---
 
@@ -49,9 +48,8 @@ Minha stack principal de estudo e desenvolvimento:
 ### 📊 🌻 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Estatísticas principais corrigidas -->
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=aliceantuunes&show_icons=true&theme=vue-dark" alt="Stats" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceantuunes&layout=compact&theme=vue-dark" alt="Top Langs" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=aliceantuunes&show_icons=true&theme=vue-dark" alt="Stats" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceantuunes&layout=compact&theme=vue-dark" alt="Top Langs" />
 </div>
 
 ---
@@ -62,8 +60,6 @@ Minha stack principal de estudo e desenvolvimento:
 
 <div align="center">
   <br>
-  <p>✨ <em>"Transformando linhas de código e criatividade em soluções reais com delicadeza e precisão."</em> ✨</p>
-  
-  <!-- Um toque fofo de rodapé com estrelas -->
+  <p>✨ <em>"Transformando linhas de código em soluções reais com dedicação e precisão."</em> ✨</p>
   <p>⭐ 💛 ⭐</p>
 </div>
